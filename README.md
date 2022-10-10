@@ -1,2 +1,2 @@
 # KESCHAA
-To'tiqushning sayohati
+This is parrot that to make you happy
