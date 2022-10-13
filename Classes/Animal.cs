@@ -2,25 +2,6 @@ namespace KESCHAA.Classes
 {
     class Animal
     {
-        //filed => xususiyat
-        //private int age;
-
-        //property => xossa
-        // public int Age
-        // {
-        //     get
-        //     {
-        //         return age;
-        //     }
-        //     set
-        //     {
-        //         if(value > 0)
-        //         {
-        //             age = value;
-        //         }
-        //     }
-        // }
-
         public string Name { get; set; }
         public int Age { get; set; }
         public int AgeDiffenence { get; set; }
